@@ -60,4 +60,5 @@ This dashboard solves these challenges by providing real-time insights into busi
    Data Visualization, KPI Development, Sales Analysis, and Business Intelligence.
 
 9.Screenshot
-Interface(
+Interface(https://github.com/Ananyahs2005/Coffee-sales/blob/main/First%20page.png)
+
