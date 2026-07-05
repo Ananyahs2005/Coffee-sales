@@ -1,4 +1,4 @@
-# Coffee-sales
+# Coffee-sales Dashboard
 1. Project Title
 Coffee Shop Sales Analytics Dashboard
 An interactive Power BI dashboard designed to analyze coffee shop sales performance, customer purchasing behavior, and product trends. The dashboard provides actionable insights into revenue, sales patterns, store performance, and product profitability to support data-driven business decisions.
@@ -62,5 +62,7 @@ This dashboard solves these challenges by providing real-time insights into busi
 9.Screenshot
 Interface(https://github.com/Ananyahs2005/Coffee-sales/blob/main/First%20page.png)
 https://github.com/Ananyahs2005/Coffee-sales/blob/main/Second.png
+https://github.com/Ananyahs2005/Coffee-sales/blob/main/Third.png
+https://github.com/Ananyahs2005/Coffee-sales/blob/main/Fourth.png
 
 
