@@ -61,4 +61,6 @@ This dashboard solves these challenges by providing real-time insights into busi
 
 9.Screenshot
 Interface(https://github.com/Ananyahs2005/Coffee-sales/blob/main/First%20page.png)
+https://github.com/Ananyahs2005/Coffee-sales/blob/main/Second.png
+
 
